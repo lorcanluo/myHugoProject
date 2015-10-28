@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>骆二胖的技术博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 骆二胖的技术博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2015 15:52:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android界面优化</title>
+      <link>http://localhost:1313/post/Android%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Wed, 28 Oct 2015 15:52:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/Android%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;p&gt;骆灿，自称二胖，程序猿一枚，贵州人，2008年四川大学通信工程毕业.&lt;/p&gt;
+
+&lt;p&gt;工作7年，热爱互联网&amp;hellip;..&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;程序猿简介:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;程序猿简介：&lt;/h3&gt;
+
+&lt;p&gt;熟悉JAVA，c/c++,从10年开始折腾Android应用开发，服务器后台技术有一定接触，&lt;/p&gt;
+
+&lt;p&gt;目前折腾Swift和IOS中，全栈工程师才是最终梦想&amp;hellip;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

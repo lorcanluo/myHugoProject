@@ -1,0 +1,37 @@
+# Site settings
+baseurl = "http://luocan.cc/"
+languageCode = "en-us"
+title = "骆二胖的技术博客"
+theme = "hugo-cactus-theme"
+
+[params]
+	name = "程序猿骆二胖"
+	description = "骆二胖的技术博客，年纪大了，用来记点心得，发点牢骚..."
+	bio = "博主 - 程序猿 - 二胖"
+	# Enter optionally your twitter account
+	twitter = ""
+	# Disable comments by leaving disqusShortname empty
+	disqusShortname = ""
+	# Enter your tracking code to enable Google Analytics
+	googleAnalytics = ""
+	enableRSS = false
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = "主页"
+	about = "关于"
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "我只是一个程序猿二胖."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
